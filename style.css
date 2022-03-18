@@ -8,3 +8,10 @@ h3{color:blue;
 h2{color:brown;}
 p{color:lightblue;}
 font-size; 30px;}
+.logo{
+  opacity:0;
+  transition:opacity 230ms ease-in-out;
+}
+.logo:hover{
+  opacity 1;
+}
